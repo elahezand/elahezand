@@ -25,20 +25,13 @@
 - 🧠 I care deeply about code quality and user experience
 
 ---
-
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,mongodb,redis,tailwind,git,github&perline=7" />
-</p>
-
 | Category | Stack |
 |---|---|
 | **Languages** | JavaScript (ES6+), TypeScript, HTML5, CSS3 |
 | **Frontend** | React, Next.js, Tailwind CSS, Zustand, React Query, React Hook Form |
 | **Backend** | Node.js, Express, MongoDB (Mongoose), Redis |
 | **Auth & Security** | JWT, bcrypt, Helmet, CORS, rate limiting |
-| **Other Tools** | Git, GitHub, REST APIs, Multer, Nodemailer |
+| **Other Tools** | Git, GitHub, REST APIs|
 
 ---
 
