@@ -20,7 +20,6 @@
 
 - 🎨 I build both the frontend and the backend — from polished UIs to solid, secure APIs
 - 🔗 Comfortable across the full stack: Next.js/React on the client, Node.js/Express + MongoDB on the server
-- 🔐 I care about doing the backend basics right — auth (JWT), validation (Zod), security (Helmet, rate limiting)
 - 🚀 Always eager to learn new technologies and improve performance
 - 🧠 I care deeply about code quality and user experience
 
