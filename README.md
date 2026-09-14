@@ -46,18 +46,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" alt="Crawling Worm" />
 </p>
-
----
-
-### 📬 Let's Connect
-
-<p align="center">
-  <a href="mailto:elahe.zandwebdev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/elahezand">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Thanks for stopping by! ⭐️ Feel free to explore my repos and reach out.</i></p>
